@@ -1,0 +1,10 @@
+c:\users\yaroslaw\documents\visual studio 2015\Projects\Parser_Generator\Parser_Generator\bin\Debug\Parser_Generator.exe.config
+C:\Users\Yaroslaw\Documents\Visual Studio 2015\Projects\Женя\Parser_Generator\Parser_Generator\bin\Debug\Parser_Generator.exe.config
+C:\Users\Yaroslaw\Documents\Visual Studio 2015\Projects\Женя\Parser_Generator\Parser_Generator\obj\Debug\Parser_Generator.Form1.resources
+C:\Users\Yaroslaw\Documents\Visual Studio 2015\Projects\Женя\Parser_Generator\Parser_Generator\obj\Debug\Parser_Generator.Properties.Resources.resources
+C:\Users\Yaroslaw\Documents\Visual Studio 2015\Projects\Женя\Parser_Generator\Parser_Generator\obj\Debug\Parser_Generator.csproj.GenerateResource.Cache
+C:\Users\Yaroslaw\Documents\Visual Studio 2015\Projects\Женя\Parser_Generator\Parser_Generator\bin\Debug\Parser_Generator.exe
+C:\Users\Yaroslaw\Documents\Visual Studio 2015\Projects\Женя\Parser_Generator\Parser_Generator\bin\Debug\Parser_Generator.pdb
+C:\Users\Yaroslaw\Documents\Visual Studio 2015\Projects\Женя\Parser_Generator\Parser_Generator\obj\Debug\Parser_Generator.exe
+C:\Users\Yaroslaw\Documents\Visual Studio 2015\Projects\Женя\Parser_Generator\Parser_Generator\obj\Debug\Parser_Generator.pdb
+C:\Users\Yaroslaw\Documents\Visual Studio 2015\Projects\Женя\Parser_Generator\Parser_Generator\obj\Debug\Parser_Generator.csprojResolveAssemblyReference.cache
